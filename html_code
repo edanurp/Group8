@@ -189,8 +189,7 @@
     <p class = "rate">
         <span>€1100 /</span> Per Night
         
-    </p>
-        <button type = "button" class = "btn">Click For Reservation</button>                        
+    </p>                        
         </div>
         </article>
         <!-- end of 1.hotel -->
@@ -229,8 +228,7 @@
     <p>Introduced to Rome society in 1894, the architecturally iconic St. Regis Rome is a historic hotel located in one of the city’s most impressive palazzos. The pioneer St. Regis in Europe and a social beacon for Romans and international travelers, our 5 star hotel has emerged to define a new era of luminosity. Blending a noble heritage with fearless, elegant interiors has transformed this grand dame into a supremely luxurious and artful residence. High-ceilinged and light-filled, the guestrooms and suites are styled with luxurious Rubelli fabrics, handmade glass and collectable curios – effortlessly sophisticated and distinctively urbane. A contemporary take on a historic address, our luxury hotel has shed its former bearing and stepped out, into the limelight to truly own Rome. Radiant and luminous, it combines fearless elegance, disruptive artistry and discerning enlightenment. Worried about leaving your furry friends behind? Bring them along! Our hotel is pet friendly and welcomes trained pets.</p>
     <p class = "rate">
         <span>€1380 /</span> Per Night  
-    </p>
-        <button type = "button" class = "btn">Click For Reservation</button>                        
+    </p>                        
         </div>
         </article>
         <!-- end of 2.hotel -->
@@ -273,8 +271,7 @@
         Make your base high among the heavens at Caruso. Our Amalfi Coast hotel is steeped in history, uninterrupted coastal views and the kind of laid-back luxury Italy is famous for. You’ll find it’s the perfect place from which to explore Ravello, Amalfi Coast, Positano and beyond.</p>
     <p class = "rate">
         <span>€1000 /</span> Per Night
-    </p>
-        <button type = "button" class = "btn">Click For Reservation</button>                        
+    </p>                       
         </div>
         </article>
         <!-- end of 3.hotel -->
